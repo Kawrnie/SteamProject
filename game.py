@@ -13,14 +13,6 @@ class Game:
         self.genres = genres
         self.poster_url = f"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{appid}/library_600x900_2x.jpg"
         
-    def to_dict(self):
-        return {
-            "appid": self.appid,
-            "title": self.title,
-            "genres": self.genres,
-            "poster_url": self.poster_url
-        }
-
     def get_game_name(appid):
         url = f"https://store.steampowered.com/api/appdetails?appids={appid}"
 
