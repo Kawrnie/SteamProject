@@ -1,0 +1,34 @@
+{
+    "105600": {
+        "title": "Terraria",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG"
+        ]
+    },
+    "400": {
+        "title": "Portal",
+        "genres": [
+            "Action"
+        ]
+    },
+    "251570": {
+        "title": "7 Days to Die",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Simulation",
+            "Strategy"
+        ]
+    },
+    "632470": {
+        "title": "Disco Elysium - The Final Cut",
+        "genres": [
+            "RPG"
+        ]
+    }
+}
